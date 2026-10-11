@@ -8,6 +8,8 @@ The focus is deliberately narrow. It is about **AI risk in financial services**,
 
 Maintained by [Gary Ang](https://quaintitative.com/), who developed Singapore's AI Risk Management Guidelines (AIRG) while leading AI risk supervision at the MAS. Contributions are welcome: see [Contributing](CONTRIBUTING.md).
 
+For plain-English explainers, see the [guide to the AIRG](https://quaintitative.com/airg/), the [AIRG to MindForge crosswalk](https://quaintitative.com/airg-mindforge-crosswalk/), and a [complete guide to AI risk management in finance in Singapore](https://quaintitative.com/complete-guide-ai-risk-management-finance-singapore/) on Quaintitative.
+
 ## Contents
 
 - [Financial regulators and supervisory guidance](#financial-regulators-and-supervisory-guidance)
